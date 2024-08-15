@@ -19,13 +19,11 @@ Este projeto demonstra como usar `geopandas` e `matplotlib` para visualizar shap
 
    ```bash
    pip install geopandas matplotlib
-Conceitos Abordados
+## Conceitos Abordados
 
-    Simbologia em GIS: Leia mais
-    Sistemas de Coordenadas: Leia mais
-    Sistemas Geocêntricos vs. Topocêntricos: Leia mais
-    Principais Datums: Leia mais
+    Simbologia em GIS
+    Sistemas de Coordenadas
 
-Licença
+## Licença
 
 Este projeto é licenciado sob a Licença MIT.
