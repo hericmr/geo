@@ -1,4 +1,4 @@
-# 📚 Base Conceitual para Análise de Shapefiles e GIS
+# Base Conceitual para Análise de Shapefiles e GIS
 
 Este projeto de estudos basicos de conversão de shapefiles e conceitos de GIS (Geographic Information System). 
 
@@ -6,11 +6,12 @@ Este projeto de estudos basicos de conversão de shapefiles e conceitos de GIS (
 
 - **Simbologia em GIS:** 
 
-- **Sistemas de Coordenadas:** 
+- **Sistemas de Coordenadas:**
+
+
+
 
 Esses estudos de mapas estão sendo usados no jogo: https://github.com/hericmr/ocaicara
-
-
 
 ## 🕹️ O Caiçara - Aprenda os Bairros de Santos 
 "O Caiçara" é um jogo que visa aplicar o conhecimento adquirido sobre os bairros de Santos. 
